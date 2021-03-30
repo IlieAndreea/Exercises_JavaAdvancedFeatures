@@ -1,0 +1,7 @@
+
+^
+java:S1214"CMove constants defined in this interfaces to another class or enum.(…ÿ¨µÿÿÿÿÿ
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğúµ
+M	java:S106	"9Replace this use of System.out or System.err by a logger.(›ˆÔ>
+Q	java:S125"<This block of commented-out lines of code should be removed.(³Òä´
+V	java:S125"<This block of commented-out lines of code should be removed.(öŞ¦°øÿÿÿÿ

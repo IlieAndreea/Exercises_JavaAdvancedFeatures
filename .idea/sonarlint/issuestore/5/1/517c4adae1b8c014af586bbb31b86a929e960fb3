@@ -1,0 +1,7 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÅÍ¡Õâ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±“‰¿üÿÿÿÿ8ÅÍ¡Õâ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚İ¡ñ8‡ù§Õâ.
+c
+java:S2259"AA "NullPointerException" could be thrown; "str" is nullable here.(±“‰¿üÿÿÿÿ8ÅÍ¡Õâ.
